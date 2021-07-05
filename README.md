@@ -16,8 +16,8 @@
  - 求解一阶常微分方程组的Runge-Kutta格式
 
 # 软件平台
-python 3.6
-numpy  1.19.2
-matplotlib 3.3.2
+- python 3.6
+- numpy  1.19.2
+- matplotlib 3.3.2
 
 水平很渣，欢迎有喜欢编程的同学一起来提高代码能力 q(≧▽≦q)
