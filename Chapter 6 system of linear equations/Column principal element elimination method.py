@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 11:50:36 2020
-
-@author: girlfriend
-"""
-
 import numpy as np
 
 while True:
